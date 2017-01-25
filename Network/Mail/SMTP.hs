@@ -8,6 +8,7 @@ module Network.Mail.SMTP
     , sendMailWithLogin'
     , sendMailWithSender
     , sendMailWithSender'
+    , sendRenderedMail
     , simpleMail
     , plainTextPart
     , htmlPart
